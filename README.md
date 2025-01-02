@@ -1,1 +1,2 @@
-## Olá! Eu sou a Emanuelly Ferreira
+## Olá! Eu sou a Emanuelly Ferreira 🖐️
+
