@@ -1,4 +1,5 @@
-## Olá! Eu sou a Emanuelly Ferreira 🖐️
+## 🖐️Olá! Eu sou a Emanuelly Ferreira 
+<p>💡 Sou uma desenvolvedora iniciante apaixonada por tecnologia e aprendizado constante.</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=495156&height=120&section=header"/>
 
 <div align="center">  
